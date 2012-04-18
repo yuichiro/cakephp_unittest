@@ -1,0 +1,8 @@
+2012-04-12 02:08:31 Warning: Warning (512): C:\xampp\htdocs\unittest.dragon.jp\tmp\cache\ is not writable in [C:\xampp\htdocs\cake\libs\cache\file.php, line 267]
+2012-04-12 02:08:31 Warning: Warning (512): \persistent\ is not writable in [C:\xampp\htdocs\cake\libs\cache\file.php, line 267]
+2012-04-12 02:08:31 Warning: Warning (512): \models\ is not writable in [C:\xampp\htdocs\cake\libs\cache\file.php, line 267]
+2012-04-12 02:08:31 Warning: Warning (2): require(C:\xampp\htdocs\unittest.dragon.jp\dispatcher.php) [<a href='http://php.net/function.require'>function.require</a>]: failed to open stream: No such file or directory in [C:\xampp\htdocs\app_base\bootstrap.php, line 38]
+2012-04-12 02:08:31 Warning: Warning (512): C:\xampp\htdocs\unittest.dragon.jp\tmp\cache\ is not writable in [C:\xampp\htdocs\cake\libs\cache\file.php, line 267]
+2012-04-12 02:08:31 Warning: Warning (512): \persistent\ is not writable in [C:\xampp\htdocs\cake\libs\cache\file.php, line 267]
+2012-04-12 02:08:31 Warning: Warning (512): \models\ is not writable in [C:\xampp\htdocs\cake\libs\cache\file.php, line 267]
+2012-04-12 02:08:31 Warning: Warning (2): require(C:\xampp\htdocs\unittest.dragon.jp\dispatcher.php) [<a href='http://php.net/function.require'>function.require</a>]: failed to open stream: No such file or directory in [C:\xampp\htdocs\app_base\bootstrap.php, line 38]

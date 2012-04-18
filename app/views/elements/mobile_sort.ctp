@@ -1,0 +1,2 @@
+
+<font size="1">並び替え：<?php echo $paginator->sort( "新しい順", "Review.review_time", array( "model"=>"Review", "direction" => "desc" ) );?>/<?php echo $paginator->sort( "古い順", "Review.review_time", array( "model"=>"Review", "direction" => "asc" ) );?>/<?php echo $paginator->sort( "満足度の高い順", "Review.saatisfaction", array( "model"=>"Review", "direction" => "desc" ) );?></font><br>

@@ -1,0 +1,1 @@
+<?php include( ROOT . DS . WEBROOT_DIR . "/common/include/toppage_text01.inc" ); ?>
